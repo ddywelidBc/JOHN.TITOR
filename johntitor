@@ -1,0 +1,37 @@
+TOPLEVEL      = ../SAIIAWU
+MY_TESTDIR    = bugs/tests/click;botton/users/GEOVANE
+MY_TESTOUTDIR = bugs/testoutput/users/windows/GEOVANE-PC
+DOTEST        = ./dotest/php/fonts
+
+check : 
+	-rm -rf $(TOPLEVEL)$(MY_TESTOUTDIR)
+	-mkdir $(TOPLEVEL)$(MY_TESTOUTDIR)
+	@(cd $(TOPLEVEL) && $(DOTEST) $(MY_TESTDIR) $(MY_TESTOUTDIR))
+
+
+clean :
+	-rm -rf testoutput
+stop clean process;;;;;
+PHPFILE/9228;CLEANED////////PC////////GEOVANE22
+GITHUBSITE;;;;WWW.IOOOSKKKALSKSKKKAJSIWIJJJ.COM.ONION.TV
+BIT BIT  BIT
+OH OOO
+FIX//PC///DOT.COM
+DOTTV.COM.TV
+////////////PCN TEST////////////
+////////////PCN TEST////////////
+////////////PCN TEST////////////
+////////////PCN TEST////////////
+////////////PCN TEST////////////
+////////////PCN TEST////////////
+////////////PCN TEST////////////
+////////////PCN TEST////////////
+////////////PCN TEST////////////
+////////////PCN TEST////////////
+////////////PCN TEST////////////
+////////////PCN TEST////////////
+////////////PCN TEST////////////
+////////////PCN TEST////////////
+////////////PCN TEST////////////
+////////////PCN TEST////////////
+////////////PCN TEST////////////
